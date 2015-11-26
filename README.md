@@ -1,2 +1,2 @@
 # friendsgiving
-@capybara listed things he's thankful for. I forked, he updates we ended up here
+@compybara listed things he's thankful for. I forked, he updates we ended up here
