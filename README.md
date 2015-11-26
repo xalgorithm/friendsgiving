@@ -1,6 +1,6 @@
 # friendsgiving
 @compybara listed things he's thankful for. I forked, he updates we ended up here
-
+Can combine with: https://github.com/compybara/thanksgiving for awesome randomness
 
 Just a list of things I'm thankful for. I actually used a computer program to randomly shuffle these items so that they would be literally in no particular order:
 - Receiving a steady paycheck
@@ -35,14 +35,16 @@ Just a list of things I'm thankful for. I actually used a computer program to ra
 - Good movies
 - Video Games
 - Programming languages and software tools that make my job easier
-- Good colleagues like Vincent who motivate me to keep improving
+--#- Good colleagues like Vincent who motivate me to keep improving --
+- Good colleagues like Adam that answer my stupid linux questions, give me a sense of team
 - Comic Books
-- My car
+--# My car--
+- My van
 - The Tech / software industry (as much as I hate it sometimes, it's the reason I have a decent career)
 - California weather (even though it's a bit cold right now)
 - Showers
 - The existence of portable Internet connected electronic devices (so useful!)
-- Hot Sauce
+--#- Hot Sauce--
 - Eggs (the most versatile food!)
 - Dogs
 - Mountains
@@ -51,7 +53,7 @@ Just a list of things I'm thankful for. I actually used a computer program to ra
 - Google (I wouldn't know anything without it!)
 - Medical Marijuana
 - Diet Soda
-- My comfortable couch
+--#- My comfortable couch--
 - Peanut Butter
 - Chipotle salads
 - My (much improved) health
@@ -65,11 +67,14 @@ Just a list of things I'm thankful for. I actually used a computer program to ra
 - Comedians
 - Netflix
 - The variety of available technology that makes it easier to keep in touch with friends who are far away
-- Having the opportunity to play tabletop RPGs every week with Vince and Dennis
+--#-Having the opportunity to play tabletop RPGs every week with Vince and Dennis--
+- Having the opportunity to play tabletop RPGs every week with Adam, Dennis, John, Cisco and Chris
 - Bernie Sanders (for bringing a modicum of sanity to the most insane presidential race in history).
 - The Ocean
 - Books
-- Our nice (and relatively clean) apartment
+--#- Our nice (and relatively clean) apartment--
+- Our Chaotic house, full of children
 - GNU/Linux
 - The fact that I might know at least one person who would actually take the time to read this stupidly long list.
 - Podcasts
+- Ashley - who is in there right now, cooking for an army
