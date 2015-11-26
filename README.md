@@ -1,2 +1,75 @@
 # friendsgiving
 @compybara listed things he's thankful for. I forked, he updates we ended up here
+
+
+Just a list of things I'm thankful for. I actually used a computer program to randomly shuffle these items so that they would be literally in no particular order:
+- Receiving a steady paycheck
+- WiFi
+- My Friends
+- The variety of good television shows available these days
+- Chickens (I eat a lot of them. Sorry guys.)
+- Bacon in bulk from Costco
+- Having four days off to do whatever I want
+- Living in such a beautiful part of the country
+- The great doctors and therapists who've helped me improve so much in the last year
+- Bad movies
+- Having a dishwasher
+- Feminism
+- Hoodies
+- That dark chocolate is relatively low carb
+- ADHD medication
+- Trees
+- Cauliflower (delicious and versatile!)
+- https://www.reddit.com/r/me_irl
+- El Nino (we're finally getting some rain!)
+- Good coffee
+- Earl Grey Tea
+- In n Out protein style burgers
+- Low-carb tortillas
+- Ranch Dressing
+- Socialism
+- Mediocre coffee
+- My Girlfriend
+- Open source software
+- My Mom
+- Good movies
+- Video Games
+- Programming languages and software tools that make my job easier
+- Good colleagues like Vincent who motivate me to keep improving
+- Comic Books
+- My car
+- The Tech / software industry (as much as I hate it sometimes, it's the reason I have a decent career)
+- California weather (even though it's a bit cold right now)
+- Showers
+- The existence of portable Internet connected electronic devices (so useful!)
+- Hot Sauce
+- Eggs (the most versatile food!)
+- Dogs
+- Mountains
+- Having a reasonably successful career
+- Music
+- Google (I wouldn't know anything without it!)
+- Medical Marijuana
+- Diet Soda
+- My comfortable couch
+- Peanut Butter
+- Chipotle salads
+- My (much improved) health
+- Cheeses
+- Cats (and the availability of pictures of them on the Internet when real ones aren't around)
+- Crock Pots
+- Being well respected by my peers (I think?)
+- YouTube
+- Having access to reasonably affordable healthcare
+- My diet
+- Comedians
+- Netflix
+- The variety of available technology that makes it easier to keep in touch with friends who are far away
+- Having the opportunity to play tabletop RPGs every week with Vince and Dennis
+- Bernie Sanders (for bringing a modicum of sanity to the most insane presidential race in history).
+- The Ocean
+- Books
+- Our nice (and relatively clean) apartment
+- GNU/Linux
+- The fact that I might know at least one person who would actually take the time to read this stupidly long list.
+- Podcasts
